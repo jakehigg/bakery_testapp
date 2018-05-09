@@ -46,9 +46,7 @@
 		"sudo pip install flask",
 		"sudo pip install flask-mysql",
                 "git clone https://github.com/jakehigg/bakery_testapp.git",
-                "sudo pip install https://s3.amazonaws.com/cloudformation-examples/aws-cfn-bootstrap-latest.tar.gz",
-                "sudo chmod +x /etc/init.d/cfn-hup",
-                "sudo update-rc.d cfn-hup defaults"
+                "sudo pip install https://s3.amazonaws.com/cloudformation-examples/aws-cfn-bootstrap-latest.tar.gz"
             ]
         }
     ]
