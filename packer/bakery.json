@@ -21,8 +21,8 @@
     "tags": {
         "OS": "Linux",
         "Release": "Ubuntu16",
-        "Role": "Base",
-		"Profile": "None",
+        "Role": "python",
+	"Profile": "testapp",
         "Version": "Latest"
      }
   }],
