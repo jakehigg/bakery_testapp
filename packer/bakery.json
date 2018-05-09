@@ -44,8 +44,7 @@
 		"rm puppetlabs-release-pc1-xenial.deb",
 		"sudo apt-get install python-pip -y",
 		"sudo pip install flask",
-		"sudo pip install flask-mysql",
-                "cp 
+		"sudo pip install flask-mysql"
             ]
         }
     ]
