@@ -45,8 +45,7 @@
 		"sudo apt-get install python-pip -y",
 		"sudo pip install flask",
 		"sudo pip install flask-mysql",
-                "git clone https://github.com/jakehigg/bakery_testapp.git",
-                "sudo cp bakery_testapp/init/rc.local /etc/rc.local -f"
+                "git clone https://github.com/jakehigg/bakery_testapp.git"
             ]
         }
     ]
